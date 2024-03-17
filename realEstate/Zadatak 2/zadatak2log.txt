@@ -1,0 +1,1913 @@
+Begin filtering database...   [timestamp:  2024-02-18 02:08:52.162478 ]
+Database filtering complete!   [timestamp:  2024-02-18 02:08:52.607476 ]
+
+
+STAVKA A: Izlistati koliki je broj nekretnina za prodaju, a koliki je broj koji se iznajmljuju
+Broj nekretnina koje se prodaju: 15723
+Broj nekretnina koje se iznajmljuju: 3283
+
+
+STAVKA B: izlistati koliko nekretnina se prodaje u svakom od gradova
+Beograd -> 8367
+Niš -> 3081
+NoviSad -> 2346
+Kragujevac -> 434
+Zlatibor -> 350
+Pančevo -> 252
+StaraPazova -> 196
+Zrenjanin -> 106
+Mladenovac -> 69
+Smederevo -> 69
+Petrovaradin -> 53
+Obrenovac -> 51
+SremskaKamenica -> 48
+Leskovac -> 40
+Kruševac -> 34
+SremskaMitrovica -> 32
+Loznica -> 31
+Ruma -> 20
+SremskiKarlovci -> 20
+Subotica -> 13
+Veternik -> 12
+Čačak -> 12
+Valjevo -> 11
+Sopot -> 10
+Budva -> 9
+Zaječar -> 9
+Beočin -> 8
+Tara(planina) -> 6
+Kraljevo -> 5
+Prijepolje -> 4
+Kikinda -> 4
+Sombor -> 3
+Hrvatska -> 3
+Užice -> 3
+Šabac -> 2
+Srbija -> 1
+Pirot -> 1
+Bor -> 1
+Bar -> 1
+Tivat -> 1
+HercegNovi -> 1
+Vranje -> 1
+Boleč -> 1
+Kotor -> 1
+Požarevac -> 1
+
+
+STAVKA C: izlistati koliko je uknjiženih, a koliko neuknjiženih kuća, a koliko stanova
+Broj uknjizenih kuca: 1841
+Broj neuknjizenih kuca: 647
+Broj uknjizenih stanova: 9889
+Broj neuknjizenih stanova: 6629
+
+
+STAVKA D: prikazati rang listu prvih 30 najskupljih kuća koje se prodaju, i 30 najskupljih stanova koji se prodaju u Srbiji
+Lista 30 najskupljih kuća: 
+5700000.0
+5500000.0
+4250000.0
+4200000.0
+4000000.0
+4000000.0
+4000000.0
+4000000.0
+3600000.0
+3500000.0
+3500000.0
+3500000.0
+3500000.0
+3500000.0
+3400000.0
+2500000.0
+2200000.0
+2200000.0
+2200000.0
+2200000.0
+2000000.0
+2000000.0
+2000000.0
+2000000.0
+1990000.0
+1990000.0
+1920000.0
+1900000.0
+1888888.0
+1850000.0
+
+
+Lista 30 najskupljih stanova: 
+7310888.0
+2800000.0
+2300000.0
+1920000.0
+1850000.0
+1750000.0
+1750000.0
+1600000.0
+1600000.0
+1600000.0
+1550000.0
+1500000.0
+1500000.0
+1500000.0
+1500000.0
+1479888.0
+1446888.0
+1400000.0
+1390000.0
+1380000.0
+1380000.0
+1350000.0
+1320000.0
+1306888.0
+1300000.0
+1300000.0
+1232000.0
+1200000.0
+1200000.0
+1180000.0
+
+
+STAVKA E: prikazati rang listu prvih 100 najvećih kuća i 100 najvećih stanova po kvadraturi
+Lista 100 najvećih kuća: 
+4750.0
+2300.0
+2000.0
+1800.0
+1660.0
+1600.0
+1586.0
+1400.0
+1200.0
+1034.0
+1000.0
+1000.0
+982.0
+980.0
+900.0
+900.0
+890.0
+850.0
+850.0
+840.0
+835.0
+835.0
+830.0
+816.0
+809.0
+800.0
+800.0
+800.0
+800.0
+800.0
+787.0
+784.0
+784.0
+784.0
+780.0
+770.0
+750.0
+750.0
+720.0
+720.0
+720.0
+711.0
+711.0
+704.0
+700.0
+700.0
+700.0
+700.0
+700.0
+700.0
+700.0
+700.0
+700.0
+700.0
+700.0
+693.0
+680.0
+667.38
+661.0
+659.75
+658.0
+658.0
+658.0
+657.0
+655.0
+653.0
+650.0
+650.0
+650.0
+650.0
+650.0
+650.0
+650.0
+640.0
+639.0
+635.0
+632.0
+630.0
+630.0
+624.0
+623.0
+623.0
+610.0
+610.0
+610.0
+605.0
+600.0
+600.0
+600.0
+600.0
+600.0
+600.0
+600.0
+600.0
+600.0
+589.0
+586.0
+585.0
+571.0
+571.0
+
+
+Lista 100 najvećih stanova: 
+1441.0
+884.76
+541.0
+540.0
+510.0
+490.0
+450.0
+405.0
+405.0
+400.0
+373.0
+370.0
+370.0
+357.0
+352.0
+350.0
+342.0
+340.0
+340.0
+340.0
+340.0
+330.0
+330.0
+320.0
+316.0
+304.0
+301.0
+300.0
+300.0
+300.0
+300.0
+300.0
+300.0
+300.0
+298.0
+297.0
+294.0
+293.0
+288.0
+288.0
+284.0
+283.0
+283.0
+283.0
+281.0
+281.0
+280.0
+279.0
+279.0
+278.0
+277.0
+277.0
+275.0
+275.0
+272.0
+270.0
+270.0
+267.0
+266.0
+265.0
+264.0
+263.0
+263.0
+260.0
+260.0
+260.0
+260.0
+258.0
+256.0
+255.0
+253.0
+253.0
+250.0
+250.0
+250.0
+250.0
+250.0
+250.0
+250.0
+250.0
+250.0
+250.0
+250.0
+250.0
+249.0
+247.0
+247.0
+245.0
+245.0
+245.0
+245.0
+245.0
+245.0
+245.0
+245.0
+243.0
+242.16
+242.0
+241.0
+240.0
+
+
+STAVKA F: prikazati rang listu svih nekretnina izgrađenih u 2022. ili 2023. godini, i izlistati ih opadajuće prema ceni prodaje, odnosno ceni iznajmljivanja
+kuca - 2023 - Prodaja - 1990000.0
+stan - 2022 - Prodaja - 1850000.0
+stan - 2023 - Prodaja - 1600000.0
+stan - 2022 - Prodaja - 1500000.0
+stan - 2022 - Prodaja - 1380000.0
+stan - 2023 - Prodaja - 1232000.0
+kuca - 2022 - Prodaja - 1190000.0
+kuca - 2023 - Prodaja - 1190000.0
+kuca - 2022 - Prodaja - 1190000.0
+stan - 2022 - Prodaja - 1026000.0
+stan - 2022 - Prodaja - 970000.0
+stan - 2023 - Prodaja - 937600.0
+stan - 2023 - Prodaja - 908055.0
+stan - 2022 - Prodaja - 908000.0
+stan - 2023 - Prodaja - 891000.0
+stan - 2023 - Prodaja - 888000.0
+stan - 2023 - Prodaja - 883200.0
+stan - 2022 - Prodaja - 875500.0
+stan - 2023 - Prodaja - 866115.0
+stan - 2022 - Prodaja - 866000.0
+stan - 2022 - Prodaja - 800000.0
+stan - 2023 - Prodaja - 794700.0
+stan - 2023 - Prodaja - 792000.0
+stan - 2023 - Prodaja - 780120.0
+stan - 2022 - Prodaja - 760000.0
+stan - 2022 - Prodaja - 749900.0
+stan - 2023 - Prodaja - 739410.0
+stan - 2023 - Prodaja - 730000.0
+stan - 2022 - Prodaja - 725000.0
+stan - 2022 - Prodaja - 712440.0
+kuca - 2023 - Prodaja - 700000.0
+stan - 2023 - Prodaja - 690000.0
+kuca - 2022 - Prodaja - 689600.0
+stan - 2023 - Prodaja - 689500.0
+stan - 2022 - Prodaja - 689490.0
+stan - 2023 - Prodaja - 670000.0
+stan - 2022 - Prodaja - 670000.0
+stan - 2022 - Prodaja - 667151.0
+stan - 2022 - Prodaja - 655000.0
+stan - 2023 - Prodaja - 651000.0
+kuca - 2023 - Prodaja - 650000.0
+stan - 2023 - Prodaja - 649000.0
+stan - 2023 - Prodaja - 619500.0
+stan - 2022 - Prodaja - 615050.0
+stan - 2023 - Prodaja - 610000.0
+stan - 2023 - Prodaja - 610000.0
+stan - 2023 - Prodaja - 599500.0
+stan - 2023 - Prodaja - 594000.0
+stan - 2023 - Prodaja - 589500.0
+stan - 2022 - Prodaja - 580000.0
+stan - 2022 - Prodaja - 572000.0
+stan - 2022 - Prodaja - 570000.0
+stan - 2022 - Prodaja - 565000.0
+stan - 2023 - Prodaja - 562888.0
+stan - 2022 - Prodaja - 551418.0
+stan - 2023 - Prodaja - 550000.0
+stan - 2023 - Prodaja - 550000.0
+stan - 2022 - Prodaja - 545000.0
+stan - 2023 - Prodaja - 543095.0
+stan - 2023 - Prodaja - 541350.0
+stan - 2022 - Prodaja - 520000.0
+stan - 2022 - Prodaja - 517000.0
+stan - 2022 - Prodaja - 515450.0
+stan - 2022 - Prodaja - 507192.0
+stan - 2023 - Prodaja - 496000.0
+stan - 2023 - Prodaja - 488000.0
+stan - 2022 - Prodaja - 485000.0
+stan - 2022 - Prodaja - 484800.0
+stan - 2022 - Prodaja - 475000.0
+stan - 2023 - Prodaja - 475000.0
+stan - 2023 - Prodaja - 469790.0
+stan - 2023 - Prodaja - 463434.0
+stan - 2022 - Prodaja - 460000.0
+stan - 2022 - Prodaja - 460000.0
+stan - 2022 - Prodaja - 460000.0
+stan - 2022 - Prodaja - 455888.0
+stan - 2022 - Prodaja - 450000.0
+stan - 2023 - Prodaja - 448888.0
+stan - 2023 - Prodaja - 448050.0
+stan - 2023 - Prodaja - 431423.0
+stan - 2023 - Prodaja - 430000.0
+stan - 2022 - Prodaja - 430000.0
+stan - 2023 - Prodaja - 425000.0
+stan - 2022 - Prodaja - 421960.0
+stan - 2022 - Prodaja - 420000.0
+stan - 2022 - Prodaja - 415000.0
+stan - 2023 - Prodaja - 406850.0
+stan - 2023 - Prodaja - 406850.0
+stan - 2023 - Prodaja - 406415.0
+stan - 2022 - Prodaja - 404460.0
+stan - 2023 - Prodaja - 404000.0
+stan - 2023 - Prodaja - 402800.0
+stan - 2023 - Prodaja - 400000.0
+stan - 2023 - Prodaja - 399500.0
+stan - 2022 - Prodaja - 399000.0
+stan - 2023 - Prodaja - 399000.0
+stan - 2022 - Prodaja - 398400.0
+stan - 2022 - Prodaja - 396900.0
+stan - 2022 - Prodaja - 396000.0
+stan - 2022 - Prodaja - 395000.0
+kuca - 2023 - Prodaja - 395000.0
+stan - 2022 - Prodaja - 394000.0
+stan - 2023 - Prodaja - 393225.0
+stan - 2023 - Prodaja - 390000.0
+kuca - 2023 - Prodaja - 390000.0
+stan - 2023 - Prodaja - 389500.0
+stan - 2023 - Prodaja - 385000.0
+stan - 2022 - Prodaja - 383888.0
+stan - 2023 - Prodaja - 382000.0
+stan - 2023 - Prodaja - 380000.0
+stan - 2023 - Prodaja - 380000.0
+stan - 2023 - Prodaja - 375000.0
+stan - 2023 - Prodaja - 373000.0
+stan - 2023 - Prodaja - 370000.0
+stan - 2023 - Prodaja - 369310.0
+stan - 2023 - Prodaja - 369000.0
+stan - 2023 - Prodaja - 368900.0
+stan - 2023 - Prodaja - 364038.0
+stan - 2023 - Prodaja - 363000.0
+stan - 2023 - Prodaja - 360000.0
+kuca - 2022 - Prodaja - 360000.0
+stan - 2022 - Prodaja - 359000.0
+stan - 2022 - Prodaja - 355500.0
+stan - 2022 - Prodaja - 355000.0
+stan - 2022 - Prodaja - 351888.0
+stan - 2022 - Prodaja - 350000.0
+stan - 2023 - Prodaja - 350000.0
+stan - 2022 - Prodaja - 347888.0
+stan - 2023 - Prodaja - 336000.0
+stan - 2023 - Prodaja - 335900.0
+stan - 2022 - Prodaja - 335650.0
+stan - 2022 - Prodaja - 335000.0
+stan - 2023 - Prodaja - 334880.0
+stan - 2023 - Prodaja - 334000.0
+stan - 2023 - Prodaja - 333775.0
+stan - 2023 - Prodaja - 333180.0
+stan - 2023 - Prodaja - 333000.0
+stan - 2023 - Prodaja - 333000.0
+stan - 2023 - Prodaja - 330000.0
+stan - 2022 - Prodaja - 330000.0
+stan - 2022 - Prodaja - 327750.0
+stan - 2022 - Prodaja - 327000.0
+stan - 2022 - Prodaja - 325000.0
+stan - 2022 - Prodaja - 325000.0
+stan - 2023 - Prodaja - 325000.0
+stan - 2023 - Prodaja - 325000.0
+stan - 2023 - Prodaja - 320000.0
+kuca - 2023 - Prodaja - 315000.0
+stan - 2022 - Prodaja - 312250.0
+stan - 2023 - Prodaja - 310960.0
+stan - 2023 - Prodaja - 310000.0
+stan - 2022 - Prodaja - 310000.0
+stan - 2023 - Prodaja - 310000.0
+kuca - 2023 - Prodaja - 310000.0
+stan - 2023 - Prodaja - 309888.0
+stan - 2023 - Prodaja - 307888.0
+stan - 2023 - Prodaja - 307100.0
+stan - 2022 - Prodaja - 307100.0
+stan - 2022 - Prodaja - 303888.0
+stan - 2023 - Prodaja - 303000.0
+stan - 2022 - Prodaja - 302400.0
+stan - 2022 - Prodaja - 302300.0
+stan - 2023 - Prodaja - 300888.0
+stan - 2023 - Prodaja - 300860.0
+stan - 2023 - Prodaja - 300740.0
+stan - 2023 - Prodaja - 300000.0
+stan - 2023 - Prodaja - 300000.0
+stan - 2022 - Prodaja - 300000.0
+stan - 2023 - Prodaja - 299000.0
+stan - 2023 - Prodaja - 299000.0
+stan - 2023 - Prodaja - 299000.0
+stan - 2022 - Prodaja - 298700.0
+stan - 2023 - Prodaja - 298383.8
+stan - 2023 - Prodaja - 296888.0
+stan - 2023 - Prodaja - 296888.0
+stan - 2022 - Prodaja - 295000.0
+stan - 2023 - Prodaja - 295000.0
+stan - 2022 - Prodaja - 294000.0
+stan - 2023 - Prodaja - 291232.0
+kuca - 2023 - Prodaja - 290000.0
+stan - 2023 - Prodaja - 288000.0
+stan - 2022 - Prodaja - 288000.0
+stan - 2022 - Prodaja - 286920.0
+stan - 2023 - Prodaja - 286236.0
+stan - 2023 - Prodaja - 285740.0
+stan - 2022 - Prodaja - 285000.0
+stan - 2023 - Prodaja - 283995.0
+stan - 2023 - Prodaja - 283510.0
+stan - 2023 - Prodaja - 283000.0
+stan - 2023 - Prodaja - 281000.0
+stan - 2023 - Prodaja - 281000.0
+stan - 2022 - Prodaja - 280900.0
+stan - 2023 - Prodaja - 280750.0
+stan - 2022 - Prodaja - 280060.0
+stan - 2023 - Prodaja - 279358.75
+stan - 2023 - Prodaja - 279177.25
+stan - 2023 - Prodaja - 278500.0
+stan - 2023 - Prodaja - 278500.0
+stan - 2023 - Prodaja - 278500.0
+stan - 2022 - Prodaja - 278400.0
+stan - 2022 - Prodaja - 278100.0
+stan - 2023 - Prodaja - 277400.0
+stan - 2023 - Prodaja - 275360.0
+stan - 2023 - Prodaja - 274520.0
+stan - 2023 - Prodaja - 270468.0
+stan - 2022 - Prodaja - 270000.0
+stan - 2022 - Prodaja - 270000.0
+stan - 2022 - Prodaja - 270000.0
+stan - 2022 - Prodaja - 270000.0
+stan - 2022 - Prodaja - 270000.0
+stan - 2022 - Prodaja - 270000.0
+stan - 2022 - Prodaja - 270000.0
+stan - 2022 - Prodaja - 270000.0
+stan - 2022 - Prodaja - 269000.0
+stan - 2022 - Prodaja - 267800.0
+stan - 2023 - Prodaja - 265676.0
+stan - 2022 - Prodaja - 265000.0
+kuca - 2023 - Prodaja - 264900.0
+stan - 2023 - Prodaja - 264888.0
+stan - 2023 - Prodaja - 264000.0
+stan - 2022 - Prodaja - 263500.0
+stan - 2022 - Prodaja - 263340.0
+stan - 2022 - Prodaja - 260650.0
+stan - 2023 - Prodaja - 260650.0
+stan - 2023 - Prodaja - 260650.0
+stan - 2023 - Prodaja - 260000.0
+stan - 2023 - Prodaja - 260000.0
+stan - 2022 - Prodaja - 260000.0
+stan - 2023 - Prodaja - 260000.0
+stan - 2023 - Prodaja - 260000.0
+kuca - 2023 - Prodaja - 260000.0
+kuca - 2023 - Prodaja - 260000.0
+stan - 2022 - Prodaja - 258120.0
+stan - 2022 - Prodaja - 258120.0
+stan - 2022 - Prodaja - 258120.0
+stan - 2022 - Prodaja - 256000.0
+stan - 2022 - Prodaja - 256000.0
+stan - 2023 - Prodaja - 255827.0
+stan - 2023 - Prodaja - 255750.0
+stan - 2022 - Prodaja - 254600.0
+stan - 2022 - Prodaja - 254600.0
+stan - 2023 - Prodaja - 254592.0
+stan - 2023 - Prodaja - 253000.0
+stan - 2022 - Prodaja - 252500.0
+stan - 2022 - Prodaja - 251640.0
+stan - 2022 - Prodaja - 251640.0
+stan - 2022 - Prodaja - 251640.0
+stan - 2022 - Prodaja - 250800.0
+stan - 2022 - Prodaja - 250000.0
+stan - 2023 - Prodaja - 250000.0
+stan - 2023 - Prodaja - 250000.0
+stan - 2022 - Prodaja - 250000.0
+stan - 2023 - Prodaja - 250000.0
+kuca - 2022 - Prodaja - 250000.0
+stan - 2022 - Prodaja - 247200.0
+stan - 2023 - Prodaja - 246000.0
+stan - 2022 - Prodaja - 246000.0
+stan - 2023 - Prodaja - 245929.0
+stan - 2023 - Prodaja - 245520.0
+stan - 2023 - Prodaja - 245000.0
+stan - 2023 - Prodaja - 244000.0
+stan - 2023 - Prodaja - 241888.0
+stan - 2023 - Prodaja - 241100.0
+stan - 2023 - Prodaja - 239000.0
+stan - 2023 - Prodaja - 238181.0
+stan - 2023 - Prodaja - 238000.0
+stan - 2023 - Prodaja - 237650.0
+stan - 2023 - Prodaja - 236900.0
+stan - 2023 - Prodaja - 236250.0
+stan - 2023 - Prodaja - 236250.0
+stan - 2023 - Prodaja - 236250.0
+stan - 2022 - Prodaja - 236100.0
+stan - 2023 - Prodaja - 236000.0
+stan - 2023 - Prodaja - 235500.0
+stan - 2023 - Prodaja - 235290.0
+stan - 2023 - Prodaja - 233000.0
+stan - 2023 - Prodaja - 232000.0
+stan - 2023 - Prodaja - 231880.0
+stan - 2023 - Prodaja - 230000.0
+stan - 2023 - Prodaja - 230000.0
+stan - 2023 - Prodaja - 230000.0
+stan - 2022 - Prodaja - 229888.0
+stan - 2023 - Prodaja - 229650.0
+stan - 2023 - Prodaja - 229000.0
+stan - 2023 - Prodaja - 229000.0
+stan - 2023 - Prodaja - 229000.0
+stan - 2023 - Prodaja - 225000.0
+stan - 2023 - Prodaja - 225000.0
+stan - 2022 - Prodaja - 225000.0
+stan - 2023 - Prodaja - 224500.0
+stan - 2023 - Prodaja - 224250.0
+stan - 2023 - Prodaja - 224250.0
+stan - 2023 - Prodaja - 224250.0
+stan - 2023 - Prodaja - 224250.0
+stan - 2023 - Prodaja - 224250.0
+stan - 2023 - Prodaja - 224250.0
+stan - 2023 - Prodaja - 224250.0
+stan - 2023 - Prodaja - 224250.0
+stan - 2023 - Prodaja - 224000.0
+stan - 2023 - Prodaja - 223572.0
+stan - 2023 - Prodaja - 223303.0
+stan - 2023 - Prodaja - 222750.0
+stan - 2023 - Prodaja - 221888.0
+stan - 2023 - Prodaja - 221331.0
+stan - 2023 - Prodaja - 220000.0
+stan - 2023 - Prodaja - 220000.0
+stan - 2023 - Prodaja - 219500.0
+stan - 2023 - Prodaja - 218000.0
+stan - 2023 - Prodaja - 218000.0
+stan - 2023 - Prodaja - 217500.0
+stan - 2023 - Prodaja - 217000.0
+stan - 2023 - Prodaja - 215000.0
+stan - 2023 - Prodaja - 215000.0
+stan - 2023 - Prodaja - 215000.0
+stan - 2023 - Prodaja - 215000.0
+kuca - 2023 - Prodaja - 215000.0
+stan - 2023 - Prodaja - 213850.0
+stan - 2023 - Prodaja - 213498.0
+stan - 2023 - Prodaja - 212727.0
+stan - 2022 - Prodaja - 212443.0
+stan - 2023 - Prodaja - 212440.0
+stan - 2023 - Prodaja - 211900.0
+stan - 2023 - Prodaja - 211700.0
+stan - 2022 - Prodaja - 211700.0
+stan - 2022 - Prodaja - 210860.0
+stan - 2023 - Prodaja - 210056.0
+stan - 2022 - Prodaja - 210000.0
+stan - 2023 - Prodaja - 210000.0
+kuca - 2022 - Prodaja - 210000.0
+stan - 2023 - Prodaja - 209000.0
+stan - 2023 - Prodaja - 208923.0
+stan - 2023 - Prodaja - 208755.0
+stan - 2023 - Prodaja - 208000.0
+stan - 2023 - Prodaja - 208000.0
+stan - 2023 - Prodaja - 208000.0
+stan - 2023 - Prodaja - 208000.0
+stan - 2023 - Prodaja - 208000.0
+stan - 2023 - Prodaja - 208000.0
+stan - 2023 - Prodaja - 208000.0
+stan - 2023 - Prodaja - 208000.0
+stan - 2023 - Prodaja - 208000.0
+stan - 2023 - Prodaja - 207882.0
+stan - 2023 - Prodaja - 207400.0
+stan - 2023 - Prodaja - 207000.0
+stan - 2022 - Prodaja - 207000.0
+stan - 2023 - Prodaja - 206900.0
+stan - 2023 - Prodaja - 206000.0
+stan - 2023 - Prodaja - 206000.0
+stan - 2023 - Prodaja - 206000.0
+kuca - 2023 - Prodaja - 206000.0
+stan - 2023 - Prodaja - 205000.0
+stan - 2023 - Prodaja - 202600.0
+stan - 2023 - Prodaja - 202500.0
+stan - 2023 - Prodaja - 202000.0
+stan - 2023 - Prodaja - 201825.0
+stan - 2022 - Prodaja - 201770.0
+stan - 2023 - Prodaja - 201600.0
+stan - 2023 - Prodaja - 201348.0
+stan - 2023 - Prodaja - 201240.0
+stan - 2023 - Prodaja - 200750.0
+stan - 2023 - Prodaja - 200500.0
+stan - 2023 - Prodaja - 200100.0
+stan - 2023 - Prodaja - 200000.0
+stan - 2023 - Prodaja - 200000.0
+stan - 2022 - Prodaja - 199999.0
+stan - 2022 - Prodaja - 199900.0
+stan - 2022 - Prodaja - 199900.0
+stan - 2022 - Prodaja - 199690.0
+stan - 2022 - Prodaja - 199690.0
+stan - 2022 - Prodaja - 199690.0
+stan - 2023 - Prodaja - 198500.0
+stan - 2023 - Prodaja - 198450.0
+stan - 2023 - Prodaja - 198000.0
+stan - 2023 - Prodaja - 198000.0
+stan - 2023 - Prodaja - 198000.0
+stan - 2023 - Prodaja - 196550.0
+stan - 2023 - Prodaja - 196550.0
+stan - 2023 - Prodaja - 196020.0
+stan - 2023 - Prodaja - 195410.0
+stan - 2022 - Prodaja - 195360.0
+stan - 2022 - Prodaja - 195360.0
+stan - 2022 - Prodaja - 195360.0
+stan - 2023 - Prodaja - 195350.0
+stan - 2022 - Prodaja - 195350.0
+stan - 2022 - Prodaja - 195350.0
+stan - 2022 - Prodaja - 195350.0
+stan - 2023 - Prodaja - 195200.0
+stan - 2022 - Prodaja - 195111.0
+stan - 2022 - Prodaja - 195000.0
+stan - 2023 - Prodaja - 195000.0
+stan - 2022 - Prodaja - 195000.0
+stan - 2023 - Prodaja - 194300.0
+stan - 2023 - Prodaja - 194000.0
+stan - 2023 - Prodaja - 193750.0
+stan - 2023 - Prodaja - 193295.0
+stan - 2023 - Prodaja - 193130.0
+stan - 2022 - Prodaja - 192000.0
+stan - 2022 - Prodaja - 191750.0
+stan - 2022 - Prodaja - 191000.0
+stan - 2022 - Prodaja - 190988.0
+stan - 2023 - Prodaja - 190900.0
+stan - 2022 - Prodaja - 190000.0
+stan - 2022 - Prodaja - 190000.0
+stan - 2022 - Prodaja - 190000.0
+kuca - 2022 - Prodaja - 190000.0
+stan - 2022 - Prodaja - 189000.0
+stan - 2022 - Prodaja - 188960.0
+stan - 2023 - Prodaja - 188490.0
+stan - 2023 - Prodaja - 188296.0
+stan - 2022 - Prodaja - 187000.0
+stan - 2022 - Prodaja - 186950.0
+stan - 2022 - Prodaja - 186700.0
+stan - 2022 - Prodaja - 186700.0
+stan - 2022 - Prodaja - 186700.0
+stan - 2023 - Prodaja - 185600.0
+stan - 2023 - Prodaja - 185210.0
+stan - 2023 - Prodaja - 184650.0
+stan - 2023 - Prodaja - 184338.0
+stan - 2023 - Prodaja - 184195.0
+stan - 2023 - Prodaja - 183650.0
+stan - 2023 - Prodaja - 183000.0
+stan - 2023 - Prodaja - 182960.0
+stan - 2023 - Prodaja - 181500.0
+stan - 2023 - Prodaja - 181500.0
+stan - 2023 - Prodaja - 181500.0
+stan - 2023 - Prodaja - 181500.0
+stan - 2023 - Prodaja - 180886.0
+stan - 2023 - Prodaja - 180774.0
+stan - 2023 - Prodaja - 180020.0
+stan - 2023 - Prodaja - 180000.0
+stan - 2023 - Prodaja - 180000.0
+stan - 2023 - Prodaja - 180000.0
+stan - 2022 - Prodaja - 179850.0
+stan - 2023 - Prodaja - 179315.0
+stan - 2023 - Prodaja - 179000.0
+stan - 2023 - Prodaja - 179000.0
+stan - 2023 - Prodaja - 178400.0
+stan - 2023 - Prodaja - 178000.0
+stan - 2022 - Prodaja - 177800.0
+stan - 2022 - Prodaja - 177800.0
+stan - 2022 - Prodaja - 177400.0
+stan - 2022 - Prodaja - 177100.0
+stan - 2023 - Prodaja - 177100.0
+stan - 2023 - Prodaja - 177000.0
+stan - 2023 - Prodaja - 176400.0
+stan - 2023 - Prodaja - 175000.0
+stan - 2023 - Prodaja - 175000.0
+stan - 2023 - Prodaja - 175000.0
+stan - 2022 - Prodaja - 175000.0
+stan - 2023 - Prodaja - 174990.0
+stan - 2023 - Prodaja - 174960.0
+stan - 2023 - Prodaja - 174900.0
+stan - 2022 - Prodaja - 174500.0
+stan - 2022 - Prodaja - 174000.0
+stan - 2023 - Prodaja - 173632.0
+stan - 2023 - Prodaja - 173600.0
+stan - 2022 - Prodaja - 171879.0
+stan - 2022 - Prodaja - 171200.0
+stan - 2023 - Prodaja - 170000.0
+stan - 2023 - Prodaja - 170000.0
+kuca - 2023 - Prodaja - 170000.0
+kuca - 2023 - Prodaja - 170000.0
+kuca - 2023 - Prodaja - 170000.0
+stan - 2023 - Prodaja - 169950.0
+stan - 2022 - Prodaja - 169900.0
+stan - 2023 - Prodaja - 169100.0
+stan - 2023 - Prodaja - 169000.0
+stan - 2023 - Prodaja - 169000.0
+stan - 2023 - Prodaja - 168000.0
+kuca - 2023 - Prodaja - 168000.0
+stan - 2023 - Prodaja - 167825.0
+stan - 2023 - Prodaja - 167825.0
+stan - 2023 - Prodaja - 167750.0
+stan - 2023 - Prodaja - 166740.0
+stan - 2023 - Prodaja - 166740.0
+stan - 2023 - Prodaja - 166740.0
+stan - 2023 - Prodaja - 166000.0
+stan - 2023 - Prodaja - 165730.0
+stan - 2023 - Prodaja - 165600.0
+stan - 2022 - Prodaja - 165600.0
+stan - 2023 - Prodaja - 165320.0
+stan - 2022 - Prodaja - 165000.0
+stan - 2023 - Prodaja - 165000.0
+kuca - 2023 - Prodaja - 165000.0
+stan - 2022 - Prodaja - 164800.0
+stan - 2022 - Prodaja - 164700.0
+stan - 2023 - Prodaja - 164400.0
+stan - 2022 - Prodaja - 163000.0
+stan - 2023 - Prodaja - 162500.0
+stan - 2023 - Prodaja - 162400.0
+stan - 2023 - Prodaja - 162200.0
+stan - 2022 - Prodaja - 161620.0
+stan - 2023 - Prodaja - 161000.0
+stan - 2023 - Prodaja - 160200.0
+stan - 2022 - Prodaja - 160200.0
+stan - 2023 - Prodaja - 160000.0
+stan - 2023 - Prodaja - 159650.0
+stan - 2023 - Prodaja - 159650.0
+stan - 2023 - Prodaja - 159000.0
+stan - 2023 - Prodaja - 158605.15
+stan - 2023 - Prodaja - 158605.15
+stan - 2023 - Prodaja - 158605.15
+stan - 2023 - Prodaja - 158400.0
+stan - 2023 - Prodaja - 158205.0
+stan - 2023 - Prodaja - 158177.0
+stan - 2023 - Prodaja - 158000.0
+stan - 2023 - Prodaja - 157950.0
+stan - 2023 - Prodaja - 157500.0
+stan - 2023 - Prodaja - 157220.0
+stan - 2023 - Prodaja - 156560.0
+stan - 2023 - Prodaja - 156477.2
+stan - 2023 - Prodaja - 156477.2
+stan - 2023 - Prodaja - 156477.2
+stan - 2022 - Prodaja - 156000.0
+stan - 2022 - Prodaja - 156000.0
+stan - 2023 - Prodaja - 155640.0
+stan - 2023 - Prodaja - 155640.0
+stan - 2023 - Prodaja - 155640.0
+stan - 2023 - Prodaja - 155640.0
+stan - 2023 - Prodaja - 155430.0
+stan - 2023 - Prodaja - 155400.0
+stan - 2023 - Prodaja - 155331.0
+stan - 2023 - Prodaja - 155331.0
+stan - 2023 - Prodaja - 155331.0
+stan - 2023 - Prodaja - 155330.0
+stan - 2023 - Prodaja - 155300.0
+stan - 2023 - Prodaja - 155000.0
+stan - 2023 - Prodaja - 155000.0
+stan - 2023 - Prodaja - 154500.0
+stan - 2023 - Prodaja - 154500.0
+stan - 2023 - Prodaja - 154000.0
+stan - 2022 - Prodaja - 154000.0
+stan - 2023 - Prodaja - 153500.0
+stan - 2022 - Prodaja - 153000.0
+stan - 2022 - Prodaja - 152500.0
+stan - 2023 - Prodaja - 152500.0
+stan - 2023 - Prodaja - 152454.5
+stan - 2023 - Prodaja - 152440.0
+stan - 2022 - Prodaja - 151800.0
+stan - 2022 - Prodaja - 151350.0
+stan - 2022 - Prodaja - 151090.0
+stan - 2022 - Prodaja - 150850.0
+stan - 2023 - Prodaja - 150144.0
+stan - 2023 - Prodaja - 150144.0
+stan - 2023 - Prodaja - 150144.0
+stan - 2022 - Prodaja - 150000.0
+stan - 2023 - Prodaja - 150000.0
+stan - 2023 - Prodaja - 150000.0
+kuca - 2022 - Prodaja - 150000.0
+stan - 2023 - Prodaja - 149950.0
+stan - 2022 - Prodaja - 149350.0
+stan - 2022 - Prodaja - 148320.0
+stan - 2023 - Prodaja - 148300.0
+stan - 2023 - Prodaja - 148230.0
+stan - 2023 - Prodaja - 148230.0
+stan - 2023 - Prodaja - 148230.0
+stan - 2023 - Prodaja - 148230.0
+stan - 2023 - Prodaja - 148230.0
+stan - 2023 - Prodaja - 148230.0
+stan - 2022 - Prodaja - 148050.0
+stan - 2022 - Prodaja - 148050.0
+stan - 2022 - Prodaja - 148050.0
+stan - 2023 - Prodaja - 147100.0
+stan - 2022 - Prodaja - 146260.0
+stan - 2022 - Prodaja - 146260.0
+stan - 2023 - Prodaja - 145000.0
+stan - 2023 - Prodaja - 145000.0
+stan - 2023 - Prodaja - 145000.0
+stan - 2023 - Prodaja - 145000.0
+stan - 2023 - Prodaja - 145000.0
+stan - 2023 - Prodaja - 145000.0
+stan - 2023 - Prodaja - 144000.0
+stan - 2022 - Prodaja - 144000.0
+stan - 2023 - Prodaja - 143500.0
+stan - 2023 - Prodaja - 143500.0
+stan - 2023 - Prodaja - 143500.0
+stan - 2023 - Prodaja - 143500.0
+stan - 2023 - Prodaja - 143300.0
+stan - 2022 - Prodaja - 143000.0
+stan - 2023 - Prodaja - 142850.0
+stan - 2023 - Prodaja - 142500.0
+stan - 2023 - Prodaja - 142100.0
+stan - 2023 - Prodaja - 141630.0
+stan - 2023 - Prodaja - 141630.0
+stan - 2022 - Prodaja - 141000.0
+stan - 2023 - Prodaja - 140000.0
+stan - 2023 - Prodaja - 140000.0
+stan - 2023 - Prodaja - 140000.0
+stan - 2023 - Prodaja - 140000.0
+stan - 2022 - Prodaja - 139610.0
+stan - 2022 - Prodaja - 139050.0
+stan - 2023 - Prodaja - 139000.0
+stan - 2023 - Prodaja - 139000.0
+stan - 2022 - Prodaja - 139000.0
+stan - 2023 - Prodaja - 138184.0
+stan - 2023 - Prodaja - 138000.0
+kuca - 2023 - Prodaja - 138000.0
+stan - 2023 - Prodaja - 137760.0
+stan - 2022 - Prodaja - 137696.0
+stan - 2022 - Prodaja - 137190.0
+stan - 2023 - Prodaja - 137000.0
+stan - 2023 - Prodaja - 136500.0
+stan - 2023 - Prodaja - 136300.0
+stan - 2022 - Prodaja - 135500.0
+stan - 2023 - Prodaja - 135130.0
+stan - 2023 - Prodaja - 135000.0
+stan - 2023 - Prodaja - 135000.0
+stan - 2023 - Prodaja - 135000.0
+stan - 2023 - Prodaja - 135000.0
+stan - 2023 - Prodaja - 135000.0
+stan - 2023 - Prodaja - 134900.0
+stan - 2023 - Prodaja - 134420.0
+stan - 2023 - Prodaja - 133590.0
+stan - 2023 - Prodaja - 133550.0
+stan - 2023 - Prodaja - 133348.0
+stan - 2023 - Prodaja - 132540.0
+stan - 2023 - Prodaja - 132493.0
+stan - 2023 - Prodaja - 132300.0
+stan - 2023 - Prodaja - 132000.0
+stan - 2023 - Prodaja - 131810.0
+stan - 2023 - Prodaja - 131800.0
+stan - 2023 - Prodaja - 131640.0
+stan - 2023 - Prodaja - 131500.0
+stan - 2023 - Prodaja - 131500.0
+stan - 2023 - Prodaja - 131437.0
+stan - 2023 - Prodaja - 131400.0
+stan - 2023 - Prodaja - 131100.0
+stan - 2023 - Prodaja - 131100.0
+stan - 2023 - Prodaja - 131100.0
+stan - 2023 - Prodaja - 131100.0
+stan - 2023 - Prodaja - 131100.0
+stan - 2023 - Prodaja - 131100.0
+stan - 2023 - Prodaja - 131100.0
+stan - 2023 - Prodaja - 131000.0
+stan - 2023 - Prodaja - 131000.0
+stan - 2023 - Prodaja - 131000.0
+stan - 2023 - Prodaja - 131000.0
+stan - 2023 - Prodaja - 130500.0
+stan - 2023 - Prodaja - 130400.0
+stan - 2023 - Prodaja - 130000.0
+stan - 2023 - Prodaja - 130000.0
+stan - 2023 - Prodaja - 130000.0
+stan - 2023 - Prodaja - 130000.0
+stan - 2023 - Prodaja - 130000.0
+stan - 2023 - Prodaja - 130000.0
+stan - 2023 - Prodaja - 130000.0
+stan - 2023 - Prodaja - 129500.0
+stan - 2022 - Prodaja - 129000.0
+stan - 2022 - Prodaja - 129000.0
+stan - 2023 - Prodaja - 128817.0
+stan - 2022 - Prodaja - 128750.0
+stan - 2022 - Prodaja - 128500.0
+stan - 2023 - Prodaja - 128000.0
+stan - 2023 - Prodaja - 128000.0
+stan - 2023 - Prodaja - 128000.0
+stan - 2023 - Prodaja - 127930.0
+stan - 2023 - Prodaja - 127875.0
+stan - 2023 - Prodaja - 127630.0
+stan - 2023 - Prodaja - 127500.0
+stan - 2023 - Prodaja - 127500.0
+stan - 2023 - Prodaja - 127500.0
+stan - 2023 - Prodaja - 127350.0
+stan - 2022 - Prodaja - 127320.0
+stan - 2022 - Prodaja - 127000.0
+stan - 2022 - Prodaja - 127000.0
+stan - 2022 - Prodaja - 127000.0
+stan - 2022 - Prodaja - 127000.0
+stan - 2022 - Prodaja - 127000.0
+stan - 2022 - Prodaja - 127000.0
+stan - 2023 - Prodaja - 127000.0
+stan - 2023 - Prodaja - 126860.0
+stan - 2023 - Prodaja - 126750.0
+kuca - 2023 - Prodaja - 126690.0
+stan - 2023 - Prodaja - 125250.0
+stan - 2022 - Prodaja - 125000.0
+stan - 2023 - Prodaja - 125000.0
+stan - 2023 - Prodaja - 125000.0
+stan - 2022 - Prodaja - 125000.0
+stan - 2022 - Prodaja - 125000.0
+stan - 2022 - Prodaja - 125000.0
+kuca - 2023 - Prodaja - 125000.0
+stan - 2022 - Prodaja - 124600.0
+stan - 2023 - Prodaja - 124580.0
+stan - 2023 - Prodaja - 124000.0
+stan - 2023 - Prodaja - 124000.0
+stan - 2023 - Prodaja - 124000.0
+stan - 2023 - Prodaja - 123600.0
+stan - 2023 - Prodaja - 122850.0
+stan - 2023 - Prodaja - 122000.0
+stan - 2023 - Prodaja - 121800.0
+stan - 2023 - Prodaja - 121500.0
+stan - 2023 - Prodaja - 121500.0
+stan - 2023 - Prodaja - 121500.0
+stan - 2023 - Prodaja - 121300.0
+stan - 2023 - Prodaja - 121300.0
+stan - 2023 - Prodaja - 121300.0
+stan - 2023 - Prodaja - 121300.0
+stan - 2023 - Prodaja - 121300.0
+stan - 2023 - Prodaja - 121147.0
+stan - 2023 - Prodaja - 121120.0
+stan - 2023 - Prodaja - 121000.0
+stan - 2023 - Prodaja - 120900.0
+stan - 2022 - Prodaja - 120456.0
+stan - 2023 - Prodaja - 120120.0
+stan - 2023 - Prodaja - 120000.0
+stan - 2023 - Prodaja - 120000.0
+stan - 2023 - Prodaja - 120000.0
+stan - 2023 - Prodaja - 120000.0
+stan - 2022 - Prodaja - 120000.0
+stan - 2023 - Prodaja - 119512.0
+stan - 2023 - Prodaja - 119512.0
+stan - 2023 - Prodaja - 119500.0
+stan - 2022 - Prodaja - 119392.0
+stan - 2022 - Prodaja - 119392.0
+stan - 2022 - Prodaja - 119392.0
+stan - 2023 - Prodaja - 119378.0
+stan - 2022 - Prodaja - 119000.0
+stan - 2022 - Prodaja - 119000.0
+stan - 2023 - Prodaja - 119000.0
+stan - 2023 - Prodaja - 119000.0
+stan - 2023 - Prodaja - 118950.0
+stan - 2023 - Prodaja - 118900.0
+stan - 2023 - Prodaja - 118900.0
+stan - 2023 - Prodaja - 118800.0
+stan - 2023 - Prodaja - 118800.0
+stan - 2022 - Prodaja - 118800.0
+stan - 2023 - Prodaja - 118500.0
+stan - 2022 - Prodaja - 118450.0
+stan - 2023 - Prodaja - 118450.0
+stan - 2023 - Prodaja - 118450.0
+stan - 2022 - Prodaja - 118252.0
+stan - 2023 - Prodaja - 118000.0
+stan - 2023 - Prodaja - 117450.0
+stan - 2023 - Prodaja - 117400.0
+stan - 2023 - Prodaja - 117000.0
+stan - 2023 - Prodaja - 116750.0
+stan - 2022 - Prodaja - 116400.0
+stan - 2023 - Prodaja - 116390.0
+stan - 2022 - Prodaja - 116250.0
+stan - 2023 - Prodaja - 116200.0
+stan - 2022 - Prodaja - 116000.0
+stan - 2023 - Prodaja - 116000.0
+stan - 2023 - Prodaja - 115900.0
+stan - 2022 - Prodaja - 115720.0
+stan - 2023 - Prodaja - 115660.0
+stan - 2023 - Prodaja - 115640.0
+stan - 2023 - Prodaja - 115526.0
+stan - 2023 - Prodaja - 115000.0
+stan - 2023 - Prodaja - 115000.0
+stan - 2022 - Prodaja - 115000.0
+stan - 2023 - Prodaja - 115000.0
+stan - 2023 - Prodaja - 115000.0
+stan - 2022 - Prodaja - 115000.0
+stan - 2023 - Prodaja - 115000.0
+stan - 2023 - Prodaja - 115000.0
+stan - 2023 - Prodaja - 115000.0
+stan - 2023 - Prodaja - 114592.0
+stan - 2023 - Prodaja - 114400.0
+stan - 2023 - Prodaja - 114000.0
+stan - 2023 - Prodaja - 113820.0
+stan - 2022 - Prodaja - 113500.0
+stan - 2023 - Prodaja - 113500.0
+stan - 2023 - Prodaja - 113100.0
+stan - 2023 - Prodaja - 113000.0
+stan - 2023 - Prodaja - 112870.0
+stan - 2023 - Prodaja - 112650.0
+stan - 2023 - Prodaja - 112300.0
+stan - 2022 - Prodaja - 112000.0
+stan - 2022 - Prodaja - 111900.0
+stan - 2023 - Prodaja - 111900.0
+stan - 2023 - Prodaja - 111400.0
+stan - 2023 - Prodaja - 111100.0
+stan - 2023 - Prodaja - 111000.0
+stan - 2023 - Prodaja - 111000.0
+stan - 2023 - Prodaja - 111000.0
+stan - 2023 - Prodaja - 111000.0
+stan - 2023 - Prodaja - 110500.0
+stan - 2022 - Prodaja - 110418.0
+stan - 2022 - Prodaja - 110330.0
+stan - 2022 - Prodaja - 110055.0
+stan - 2022 - Prodaja - 110000.0
+stan - 2022 - Prodaja - 110000.0
+stan - 2023 - Prodaja - 110000.0
+stan - 2022 - Prodaja - 110000.0
+stan - 2023 - Prodaja - 109956.0
+stan - 2023 - Prodaja - 109760.0
+stan - 2023 - Prodaja - 109500.0
+stan - 2023 - Prodaja - 109200.0
+stan - 2023 - Prodaja - 109150.0
+stan - 2023 - Prodaja - 109000.0
+stan - 2022 - Prodaja - 108990.0
+stan - 2023 - Prodaja - 108840.0
+stan - 2022 - Prodaja - 108720.0
+stan - 2023 - Prodaja - 108625.0
+stan - 2023 - Prodaja - 108600.0
+stan - 2022 - Prodaja - 108500.0
+stan - 2023 - Prodaja - 108480.0
+stan - 2023 - Prodaja - 108320.0
+stan - 2023 - Prodaja - 108300.0
+stan - 2023 - Prodaja - 108200.0
+stan - 2022 - Prodaja - 108150.0
+stan - 2023 - Prodaja - 108150.0
+stan - 2023 - Prodaja - 108000.0
+stan - 2022 - Prodaja - 108000.0
+stan - 2023 - Prodaja - 108000.0
+stan - 2022 - Prodaja - 108000.0
+stan - 2022 - Prodaja - 107800.0
+stan - 2023 - Prodaja - 107440.0
+stan - 2023 - Prodaja - 107440.0
+stan - 2023 - Prodaja - 107250.0
+stan - 2023 - Prodaja - 107200.0
+stan - 2023 - Prodaja - 107200.0
+stan - 2022 - Prodaja - 106800.0
+stan - 2023 - Prodaja - 106700.0
+stan - 2023 - Prodaja - 106700.0
+stan - 2023 - Prodaja - 106700.0
+stan - 2023 - Prodaja - 106600.0
+stan - 2023 - Prodaja - 106600.0
+stan - 2023 - Prodaja - 106260.0
+stan - 2023 - Prodaja - 106207.0
+stan - 2023 - Prodaja - 106200.0
+stan - 2023 - Prodaja - 106000.0
+stan - 2023 - Prodaja - 106000.0
+stan - 2023 - Prodaja - 106000.0
+stan - 2023 - Prodaja - 106000.0
+stan - 2023 - Prodaja - 105700.0
+stan - 2022 - Prodaja - 105600.0
+stan - 2022 - Prodaja - 105090.0
+stan - 2022 - Prodaja - 105090.0
+stan - 2023 - Prodaja - 105000.0
+stan - 2023 - Prodaja - 105000.0
+stan - 2023 - Prodaja - 105000.0
+stan - 2023 - Prodaja - 105000.0
+stan - 2022 - Prodaja - 105000.0
+stan - 2022 - Prodaja - 105000.0
+stan - 2022 - Prodaja - 105000.0
+stan - 2023 - Prodaja - 104770.0
+stan - 2023 - Prodaja - 104770.0
+stan - 2023 - Prodaja - 104770.0
+stan - 2022 - Prodaja - 104720.0
+stan - 2023 - Prodaja - 104650.0
+stan - 2023 - Prodaja - 104600.0
+stan - 2023 - Prodaja - 104226.0
+stan - 2023 - Prodaja - 104000.0
+stan - 2023 - Prodaja - 104000.0
+stan - 2023 - Prodaja - 104000.0
+stan - 2023 - Prodaja - 104000.0
+stan - 2023 - Prodaja - 104000.0
+stan - 2023 - Prodaja - 103950.0
+stan - 2023 - Prodaja - 103950.0
+stan - 2023 - Prodaja - 103464.0
+stan - 2022 - Prodaja - 103190.0
+stan - 2022 - Prodaja - 103190.0
+stan - 2022 - Prodaja - 103190.0
+stan - 2023 - Prodaja - 102900.0
+stan - 2023 - Prodaja - 102830.0
+stan - 2023 - Prodaja - 102600.0
+stan - 2023 - Prodaja - 102600.0
+stan - 2023 - Prodaja - 102465.0
+stan - 2023 - Prodaja - 102000.0
+stan - 2023 - Prodaja - 102000.0
+stan - 2023 - Prodaja - 102000.0
+stan - 2023 - Prodaja - 102000.0
+stan - 2023 - Prodaja - 101640.0
+stan - 2022 - Prodaja - 101050.0
+stan - 2023 - Prodaja - 101000.0
+stan - 2022 - Prodaja - 100980.0
+stan - 2022 - Prodaja - 100800.0
+stan - 2023 - Prodaja - 100750.0
+stan - 2023 - Prodaja - 100700.0
+stan - 2023 - Prodaja - 100680.0
+stan - 2023 - Prodaja - 100680.0
+stan - 2023 - Prodaja - 100600.0
+stan - 2023 - Prodaja - 100600.0
+stan - 2022 - Prodaja - 100540.0
+stan - 2023 - Prodaja - 100100.0
+stan - 2023 - Prodaja - 100100.0
+stan - 2023 - Prodaja - 100000.0
+stan - 2022 - Prodaja - 100000.0
+stan - 2023 - Prodaja - 99910.0
+stan - 2023 - Prodaja - 99900.0
+stan - 2023 - Prodaja - 99900.0
+stan - 2023 - Prodaja - 99900.0
+stan - 2023 - Prodaja - 99900.0
+stan - 2023 - Prodaja - 99900.0
+stan - 2023 - Prodaja - 99825.0
+stan - 2023 - Prodaja - 99825.0
+stan - 2023 - Prodaja - 99750.0
+stan - 2023 - Prodaja - 99725.0
+stan - 2023 - Prodaja - 99600.0
+stan - 2023 - Prodaja - 99600.0
+stan - 2023 - Prodaja - 99600.0
+stan - 2023 - Prodaja - 99600.0
+stan - 2022 - Prodaja - 99540.0
+stan - 2023 - Prodaja - 99500.0
+stan - 2023 - Prodaja - 99495.0
+stan - 2023 - Prodaja - 99025.0
+stan - 2023 - Prodaja - 99025.0
+stan - 2022 - Prodaja - 99000.0
+stan - 2023 - Prodaja - 99000.0
+stan - 2023 - Prodaja - 99000.0
+kuca - 2022 - Prodaja - 99000.0
+stan - 2022 - Prodaja - 98900.0
+stan - 2023 - Prodaja - 98900.0
+stan - 2023 - Prodaja - 98800.0
+stan - 2023 - Prodaja - 98503.0
+stan - 2023 - Prodaja - 98500.0
+stan - 2023 - Prodaja - 98500.0
+stan - 2022 - Prodaja - 98500.0
+stan - 2022 - Prodaja - 98400.0
+stan - 2022 - Prodaja - 98161.0
+stan - 2023 - Prodaja - 97700.0
+stan - 2023 - Prodaja - 97700.0
+stan - 2022 - Prodaja - 97500.0
+stan - 2023 - Prodaja - 97350.0
+stan - 2023 - Prodaja - 97000.0
+stan - 2022 - Prodaja - 97000.0
+stan - 2022 - Prodaja - 97000.0
+stan - 2022 - Prodaja - 97000.0
+stan - 2023 - Prodaja - 96800.0
+stan - 2023 - Prodaja - 96680.0
+stan - 2023 - Prodaja - 96640.0
+stan - 2023 - Prodaja - 96552.0
+stan - 2022 - Prodaja - 96525.0
+stan - 2023 - Prodaja - 96150.0
+stan - 2023 - Prodaja - 96030.0
+stan - 2022 - Prodaja - 96000.0
+stan - 2023 - Prodaja - 96000.0
+stan - 2023 - Prodaja - 95792.0
+stan - 2023 - Prodaja - 95500.0
+stan - 2023 - Prodaja - 95348.0
+stan - 2023 - Prodaja - 95348.0
+stan - 2023 - Prodaja - 95348.0
+stan - 2023 - Prodaja - 95348.0
+stan - 2023 - Prodaja - 95240.0
+stan - 2023 - Prodaja - 95160.0
+stan - 2022 - Prodaja - 95150.0
+stan - 2023 - Prodaja - 95040.0
+stan - 2023 - Prodaja - 95000.0
+stan - 2022 - Prodaja - 95000.0
+stan - 2023 - Prodaja - 95000.0
+stan - 2023 - Prodaja - 95000.0
+kuca - 2022 - Prodaja - 95000.0
+stan - 2022 - Prodaja - 94500.0
+stan - 2023 - Prodaja - 94500.0
+stan - 2023 - Prodaja - 94400.0
+stan - 2023 - Prodaja - 94400.0
+stan - 2023 - Prodaja - 94050.0
+stan - 2023 - Prodaja - 94000.0
+stan - 2022 - Prodaja - 94000.0
+stan - 2022 - Prodaja - 93730.0
+stan - 2023 - Prodaja - 93730.0
+stan - 2022 - Prodaja - 93700.0
+stan - 2023 - Prodaja - 93500.0
+stan - 2023 - Prodaja - 93500.0
+stan - 2023 - Prodaja - 93300.0
+stan - 2023 - Prodaja - 93250.0
+stan - 2023 - Prodaja - 93050.0
+stan - 2022 - Prodaja - 93000.0
+stan - 2022 - Prodaja - 93000.0
+stan - 2022 - Prodaja - 93000.0
+stan - 2023 - Prodaja - 92700.0
+stan - 2023 - Prodaja - 92500.0
+stan - 2022 - Prodaja - 92500.0
+stan - 2023 - Prodaja - 92480.0
+stan - 2023 - Prodaja - 92400.0
+stan - 2022 - Prodaja - 92300.0
+stan - 2023 - Prodaja - 91840.0
+stan - 2023 - Prodaja - 91800.0
+stan - 2023 - Prodaja - 91800.0
+stan - 2023 - Prodaja - 91770.0
+stan - 2023 - Prodaja - 91770.0
+stan - 2023 - Prodaja - 91770.0
+stan - 2023 - Prodaja - 91770.0
+stan - 2022 - Prodaja - 91660.0
+stan - 2023 - Prodaja - 91650.0
+stan - 2023 - Prodaja - 91634.0
+stan - 2023 - Prodaja - 91520.0
+stan - 2023 - Prodaja - 91520.0
+stan - 2023 - Prodaja - 91520.0
+stan - 2023 - Prodaja - 91460.0
+stan - 2023 - Prodaja - 91000.0
+stan - 2022 - Prodaja - 91000.0
+stan - 2023 - Prodaja - 91000.0
+stan - 2023 - Prodaja - 91000.0
+stan - 2022 - Prodaja - 91000.0
+stan - 2023 - Prodaja - 91000.0
+stan - 2022 - Prodaja - 90850.0
+stan - 2023 - Prodaja - 90650.0
+stan - 2023 - Prodaja - 90650.0
+stan - 2023 - Prodaja - 90550.0
+stan - 2022 - Prodaja - 90100.0
+stan - 2023 - Prodaja - 90030.0
+stan - 2022 - Prodaja - 90000.0
+stan - 2022 - Prodaja - 90000.0
+stan - 2022 - Prodaja - 90000.0
+stan - 2023 - Prodaja - 90000.0
+stan - 2023 - Prodaja - 90000.0
+stan - 2023 - Prodaja - 90000.0
+stan - 2023 - Prodaja - 90000.0
+kuca - 2023 - Prodaja - 90000.0
+stan - 2023 - Prodaja - 89999.0
+stan - 2023 - Prodaja - 89900.0
+stan - 2022 - Prodaja - 89825.0
+stan - 2023 - Prodaja - 89630.0
+stan - 2023 - Prodaja - 89520.0
+stan - 2023 - Prodaja - 89520.0
+stan - 2022 - Prodaja - 89400.0
+stan - 2022 - Prodaja - 89375.0
+stan - 2022 - Prodaja - 89370.0
+stan - 2023 - Prodaja - 89220.0
+stan - 2023 - Prodaja - 89220.0
+stan - 2023 - Prodaja - 89220.0
+stan - 2023 - Prodaja - 89100.0
+stan - 2023 - Prodaja - 88600.0
+stan - 2023 - Prodaja - 88600.0
+stan - 2022 - Prodaja - 88200.0
+stan - 2023 - Prodaja - 88193.0
+stan - 2022 - Prodaja - 88175.0
+stan - 2023 - Prodaja - 88175.0
+stan - 2023 - Prodaja - 88000.0
+stan - 2023 - Prodaja - 88000.0
+stan - 2022 - Prodaja - 87550.0
+stan - 2022 - Prodaja - 87550.0
+stan - 2023 - Prodaja - 87500.0
+stan - 2023 - Prodaja - 87250.0
+stan - 2023 - Prodaja - 87250.0
+stan - 2023 - Prodaja - 87250.0
+stan - 2023 - Prodaja - 87250.0
+stan - 2023 - Prodaja - 87200.0
+stan - 2023 - Prodaja - 87145.0
+stan - 2023 - Prodaja - 87000.0
+stan - 2023 - Prodaja - 87000.0
+stan - 2023 - Prodaja - 87000.0
+stan - 2022 - Prodaja - 87000.0
+stan - 2023 - Prodaja - 86860.0
+stan - 2023 - Prodaja - 86860.0
+stan - 2023 - Prodaja - 86860.0
+stan - 2023 - Prodaja - 86800.0
+stan - 2023 - Prodaja - 86675.0
+stan - 2023 - Prodaja - 86600.0
+stan - 2023 - Prodaja - 86600.0
+stan - 2023 - Prodaja - 86600.0
+stan - 2023 - Prodaja - 86600.0
+stan - 2023 - Prodaja - 86600.0
+stan - 2023 - Prodaja - 86400.0
+stan - 2023 - Prodaja - 86400.0
+stan - 2023 - Prodaja - 86400.0
+stan - 2022 - Prodaja - 86390.0
+stan - 2022 - Prodaja - 86390.0
+stan - 2023 - Prodaja - 86300.0
+stan - 2023 - Prodaja - 86240.0
+stan - 2023 - Prodaja - 86000.0
+stan - 2023 - Prodaja - 86000.0
+stan - 2023 - Prodaja - 85900.0
+stan - 2023 - Prodaja - 85800.0
+stan - 2023 - Prodaja - 85800.0
+stan - 2023 - Prodaja - 85800.0
+stan - 2023 - Prodaja - 85800.0
+stan - 2023 - Prodaja - 85800.0
+stan - 2023 - Prodaja - 85800.0
+stan - 2023 - Prodaja - 85800.0
+stan - 2023 - Prodaja - 85600.0
+stan - 2023 - Prodaja - 85600.0
+stan - 2023 - Prodaja - 85600.0
+stan - 2023 - Prodaja - 85600.0
+stan - 2023 - Prodaja - 85600.0
+stan - 2023 - Prodaja - 85600.0
+stan - 2023 - Prodaja - 85600.0
+stan - 2022 - Prodaja - 85500.0
+stan - 2022 - Prodaja - 85350.0
+stan - 2023 - Prodaja - 85200.0
+stan - 2022 - Prodaja - 85150.0
+stan - 2023 - Prodaja - 85100.0
+stan - 2023 - Prodaja - 85100.0
+stan - 2023 - Prodaja - 85000.0
+stan - 2023 - Prodaja - 85000.0
+stan - 2023 - Prodaja - 84628.0
+stan - 2023 - Prodaja - 84430.0
+stan - 2022 - Prodaja - 84383.0
+stan - 2023 - Prodaja - 84300.0
+stan - 2022 - Prodaja - 84279.0
+stan - 2023 - Prodaja - 84050.0
+stan - 2023 - Prodaja - 84050.0
+stan - 2023 - Prodaja - 84000.0
+stan - 2023 - Prodaja - 84000.0
+stan - 2023 - Prodaja - 84000.0
+stan - 2023 - Prodaja - 83850.0
+stan - 2023 - Prodaja - 83540.0
+stan - 2022 - Prodaja - 83425.0
+stan - 2022 - Prodaja - 83200.0
+stan - 2023 - Prodaja - 83200.0
+stan - 2023 - Prodaja - 83150.0
+stan - 2023 - Prodaja - 83147.0
+stan - 2022 - Prodaja - 83000.0
+stan - 2022 - Prodaja - 83000.0
+stan - 2022 - Prodaja - 83000.0
+stan - 2023 - Prodaja - 83000.0
+stan - 2023 - Prodaja - 82800.0
+stan - 2023 - Prodaja - 82600.0
+stan - 2023 - Prodaja - 82500.0
+stan - 2023 - Prodaja - 82400.0
+stan - 2023 - Prodaja - 82400.0
+stan - 2022 - Prodaja - 82400.0
+stan - 2023 - Prodaja - 81950.0
+stan - 2022 - Prodaja - 81900.0
+stan - 2022 - Prodaja - 81694.0
+stan - 2022 - Prodaja - 81600.0
+stan - 2022 - Prodaja - 81500.0
+stan - 2023 - Prodaja - 81000.0
+stan - 2023 - Prodaja - 81000.0
+stan - 2023 - Prodaja - 81000.0
+stan - 2022 - Prodaja - 80850.0
+stan - 2022 - Prodaja - 80000.0
+stan - 2023 - Prodaja - 80000.0
+stan - 2023 - Prodaja - 80000.0
+stan - 2023 - Prodaja - 80000.0
+stan - 2023 - Prodaja - 80000.0
+stan - 2022 - Prodaja - 80000.0
+stan - 2022 - Prodaja - 79999.0
+stan - 2022 - Prodaja - 79800.0
+stan - 2023 - Prodaja - 79720.0
+stan - 2023 - Prodaja - 79700.0
+stan - 2023 - Prodaja - 79500.0
+stan - 2023 - Prodaja - 79400.0
+stan - 2022 - Prodaja - 79350.0
+stan - 2023 - Prodaja - 79200.0
+stan - 2022 - Prodaja - 79000.0
+kuca - 2022 - Prodaja - 79000.0
+kuca - 2023 - Prodaja - 79000.0
+stan - 2023 - Prodaja - 78980.0
+stan - 2023 - Prodaja - 78980.0
+stan - 2022 - Prodaja - 78750.0
+stan - 2023 - Prodaja - 78750.0
+stan - 2023 - Prodaja - 78750.0
+stan - 2022 - Prodaja - 78400.0
+stan - 2023 - Prodaja - 78250.0
+stan - 2022 - Prodaja - 78200.0
+stan - 2023 - Prodaja - 78200.0
+stan - 2023 - Prodaja - 77600.0
+stan - 2022 - Prodaja - 77500.0
+stan - 2022 - Prodaja - 77500.0
+stan - 2022 - Prodaja - 77500.0
+stan - 2022 - Prodaja - 77420.0
+stan - 2023 - Prodaja - 77400.0
+stan - 2023 - Prodaja - 77300.0
+stan - 2023 - Prodaja - 77250.0
+stan - 2022 - Prodaja - 77150.0
+stan - 2022 - Prodaja - 77150.0
+stan - 2022 - Prodaja - 77150.0
+stan - 2022 - Prodaja - 77000.0
+stan - 2023 - Prodaja - 76800.0
+stan - 2022 - Prodaja - 76500.0
+stan - 2022 - Prodaja - 76500.0
+stan - 2022 - Prodaja - 76500.0
+stan - 2023 - Prodaja - 76000.0
+stan - 2023 - Prodaja - 75800.0
+stan - 2023 - Prodaja - 75800.0
+stan - 2023 - Prodaja - 75800.0
+stan - 2023 - Prodaja - 75800.0
+stan - 2023 - Prodaja - 75800.0
+stan - 2023 - Prodaja - 75800.0
+stan - 2023 - Prodaja - 75750.0
+stan - 2023 - Prodaja - 75400.0
+stan - 2023 - Prodaja - 75240.0
+stan - 2023 - Prodaja - 75000.0
+stan - 2023 - Prodaja - 75000.0
+stan - 2023 - Prodaja - 75000.0
+stan - 2022 - Prodaja - 75000.0
+stan - 2022 - Prodaja - 75000.0
+stan - 2022 - Prodaja - 75000.0
+stan - 2022 - Prodaja - 75000.0
+stan - 2023 - Prodaja - 75000.0
+stan - 2023 - Prodaja - 75000.0
+kuca - 2022 - Prodaja - 75000.0
+stan - 2023 - Prodaja - 74980.0
+stan - 2023 - Prodaja - 74900.0
+stan - 2022 - Prodaja - 74900.0
+stan - 2023 - Prodaja - 74800.0
+stan - 2023 - Prodaja - 74800.0
+stan - 2023 - Prodaja - 74800.0
+stan - 2023 - Prodaja - 74800.0
+stan - 2023 - Prodaja - 74800.0
+stan - 2022 - Prodaja - 74500.0
+stan - 2022 - Prodaja - 74500.0
+stan - 2022 - Prodaja - 74500.0
+stan - 2023 - Prodaja - 74400.0
+stan - 2023 - Prodaja - 74400.0
+stan - 2023 - Prodaja - 74184.0
+stan - 2023 - Prodaja - 74000.0
+stan - 2023 - Prodaja - 74000.0
+stan - 2023 - Prodaja - 74000.0
+stan - 2023 - Prodaja - 74000.0
+stan - 2023 - Prodaja - 74000.0
+stan - 2023 - Prodaja - 74000.0
+stan - 2022 - Prodaja - 73978.0
+stan - 2023 - Prodaja - 73800.0
+stan - 2023 - Prodaja - 73800.0
+stan - 2023 - Prodaja - 73500.0
+stan - 2023 - Prodaja - 72500.0
+stan - 2023 - Prodaja - 72100.0
+stan - 2023 - Prodaja - 72100.0
+stan - 2022 - Prodaja - 72092.0
+stan - 2022 - Prodaja - 72059.0
+stan - 2023 - Prodaja - 72000.0
+stan - 2023 - Prodaja - 72000.0
+stan - 2023 - Prodaja - 72000.0
+stan - 2022 - Prodaja - 72000.0
+stan - 2022 - Prodaja - 71999.0
+stan - 2023 - Prodaja - 71940.0
+stan - 2023 - Prodaja - 71573.0
+stan - 2023 - Prodaja - 71500.0
+stan - 2023 - Prodaja - 71500.0
+stan - 2023 - Prodaja - 71500.0
+stan - 2023 - Prodaja - 71050.0
+stan - 2023 - Prodaja - 71000.0
+stan - 2022 - Prodaja - 71000.0
+stan - 2023 - Prodaja - 70630.0
+stan - 2023 - Prodaja - 70500.0
+stan - 2022 - Prodaja - 70400.0
+stan - 2022 - Prodaja - 70000.0
+stan - 2022 - Prodaja - 70000.0
+stan - 2023 - Prodaja - 70000.0
+stan - 2022 - Prodaja - 70000.0
+stan - 2023 - Prodaja - 69900.0
+stan - 2023 - Prodaja - 69800.0
+stan - 2023 - Prodaja - 69800.0
+stan - 2023 - Prodaja - 69700.0
+stan - 2023 - Prodaja - 69300.0
+stan - 2023 - Prodaja - 69300.0
+stan - 2023 - Prodaja - 69100.0
+stan - 2023 - Prodaja - 69000.0
+stan - 2022 - Prodaja - 69000.0
+stan - 2022 - Prodaja - 69000.0
+stan - 2022 - Prodaja - 69000.0
+stan - 2023 - Prodaja - 69000.0
+stan - 2023 - Prodaja - 69000.0
+kuca - 2023 - Prodaja - 69000.0
+stan - 2023 - Prodaja - 68875.0
+stan - 2023 - Prodaja - 68150.0
+stan - 2023 - Prodaja - 67900.0
+stan - 2023 - Prodaja - 67600.0
+stan - 2023 - Prodaja - 67200.0
+stan - 2023 - Prodaja - 67200.0
+stan - 2023 - Prodaja - 67200.0
+stan - 2023 - Prodaja - 67200.0
+stan - 2023 - Prodaja - 67100.0
+stan - 2023 - Prodaja - 67000.0
+stan - 2022 - Prodaja - 67000.0
+stan - 2023 - Prodaja - 67000.0
+stan - 2023 - Prodaja - 66950.0
+stan - 2023 - Prodaja - 66700.0
+stan - 2023 - Prodaja - 66600.0
+stan - 2023 - Prodaja - 66400.0
+stan - 2023 - Prodaja - 66300.0
+stan - 2023 - Prodaja - 66300.0
+stan - 2023 - Prodaja - 66300.0
+stan - 2023 - Prodaja - 66300.0
+stan - 2023 - Prodaja - 66300.0
+stan - 2023 - Prodaja - 66220.0
+stan - 2022 - Prodaja - 66198.0
+stan - 2023 - Prodaja - 66165.0
+stan - 2023 - Prodaja - 66050.0
+stan - 2023 - Prodaja - 66050.0
+stan - 2023 - Prodaja - 66050.0
+stan - 2023 - Prodaja - 65790.0
+stan - 2023 - Prodaja - 65500.0
+stan - 2023 - Prodaja - 65000.0
+stan - 2022 - Prodaja - 65000.0
+stan - 2023 - Prodaja - 64890.0
+stan - 2023 - Prodaja - 64890.0
+stan - 2023 - Prodaja - 64700.0
+stan - 2023 - Prodaja - 64700.0
+stan - 2023 - Prodaja - 64600.0
+stan - 2023 - Prodaja - 64600.0
+stan - 2023 - Prodaja - 64500.0
+stan - 2023 - Prodaja - 64350.0
+stan - 2022 - Prodaja - 64000.0
+stan - 2022 - Prodaja - 63825.0
+stan - 2023 - Prodaja - 63000.0
+stan - 2022 - Prodaja - 63000.0
+stan - 2023 - Prodaja - 63000.0
+stan - 2023 - Prodaja - 62985.0
+stan - 2023 - Prodaja - 62900.0
+stan - 2023 - Prodaja - 62700.0
+stan - 2023 - Prodaja - 62600.0
+stan - 2023 - Prodaja - 62500.0
+stan - 2023 - Prodaja - 62000.0
+stan - 2023 - Prodaja - 61800.0
+stan - 2023 - Prodaja - 61800.0
+stan - 2023 - Prodaja - 61780.0
+stan - 2023 - Prodaja - 61500.0
+stan - 2023 - Prodaja - 61412.5
+stan - 2023 - Prodaja - 61370.0
+stan - 2023 - Prodaja - 61300.0
+stan - 2023 - Prodaja - 61300.0
+stan - 2023 - Prodaja - 61300.0
+stan - 2023 - Prodaja - 61230.0
+stan - 2022 - Prodaja - 61000.0
+stan - 2023 - Prodaja - 61000.0
+stan - 2023 - Prodaja - 61000.0
+stan - 2023 - Prodaja - 60000.0
+stan - 2023 - Prodaja - 60000.0
+stan - 2022 - Prodaja - 59850.0
+stan - 2022 - Prodaja - 59850.0
+stan - 2022 - Prodaja - 59850.0
+kuca - 2023 - Prodaja - 59740.0
+stan - 2023 - Prodaja - 59500.0
+stan - 2023 - Prodaja - 59500.0
+stan - 2023 - Prodaja - 59490.0
+stan - 2023 - Prodaja - 59000.0
+stan - 2023 - Prodaja - 58500.0
+stan - 2023 - Prodaja - 58500.0
+stan - 2023 - Prodaja - 58300.0
+stan - 2023 - Prodaja - 58000.0
+stan - 2023 - Prodaja - 58000.0
+stan - 2022 - Prodaja - 57970.0
+stan - 2023 - Prodaja - 57800.0
+stan - 2022 - Prodaja - 57750.0
+stan - 2023 - Prodaja - 57600.0
+stan - 2023 - Prodaja - 57200.0
+stan - 2022 - Prodaja - 56650.0
+stan - 2022 - Prodaja - 56650.0
+stan - 2022 - Prodaja - 56500.0
+stan - 2023 - Prodaja - 55900.0
+stan - 2023 - Prodaja - 55900.0
+stan - 2023 - Prodaja - 55350.0
+stan - 2023 - Prodaja - 55315.0
+stan - 2023 - Prodaja - 54600.0
+stan - 2023 - Prodaja - 53730.0
+stan - 2023 - Prodaja - 53148.0
+stan - 2023 - Prodaja - 52800.0
+stan - 2022 - Prodaja - 52000.0
+stan - 2022 - Prodaja - 52000.0
+stan - 2023 - Prodaja - 51680.0
+stan - 2023 - Prodaja - 51600.0
+stan - 2023 - Prodaja - 51090.0
+stan - 2023 - Prodaja - 50900.0
+stan - 2023 - Prodaja - 49999.0
+stan - 2023 - Prodaja - 49920.0
+stan - 2023 - Prodaja - 49880.0
+stan - 2023 - Prodaja - 49440.0
+stan - 2023 - Prodaja - 49440.0
+stan - 2023 - Prodaja - 49200.0
+stan - 2023 - Prodaja - 49189.0
+stan - 2022 - Prodaja - 47750.0
+stan - 2023 - Prodaja - 44900.0
+stan - 2022 - Prodaja - 44550.0
+stan - 2023 - Prodaja - 44075.0
+stan - 2023 - Prodaja - 43500.0
+stan - 2023 - Prodaja - 42240.0
+stan - 2023 - Prodaja - 40000.0
+stan - 2022 - Izdavanje - 9500.0
+stan - 2022 - Izdavanje - 9000.0
+stan - 2023 - Izdavanje - 6300.0
+stan - 2023 - Izdavanje - 6300.0
+stan - 2023 - Izdavanje - 6000.0
+stan - 2022 - Izdavanje - 5000.0
+stan - 2022 - Izdavanje - 4950.0
+kuca - 2022 - Izdavanje - 3600.0
+stan - 2022 - Prodaja - 3500.0
+stan - 2023 - Izdavanje - 3500.0
+stan - 2023 - Izdavanje - 3500.0
+stan - 2023 - Izdavanje - 3500.0
+stan - 2022 - Prodaja - 3400.0
+stan - 2022 - Prodaja - 3400.0
+kuca - 2023 - Izdavanje - 3000.0
+stan - 2023 - Izdavanje - 3000.0
+kuca - 2022 - Izdavanje - 3000.0
+stan - 2022 - Izdavanje - 2800.0
+stan - 2022 - Izdavanje - 2600.0
+stan - 2023 - Izdavanje - 2500.0
+kuca - 2022 - Izdavanje - 2500.0
+stan - 2023 - Prodaja - 2350.0
+stan - 2023 - Izdavanje - 2200.0
+stan - 2023 - Izdavanje - 2200.0
+stan - 2022 - Izdavanje - 2200.0
+stan - 2023 - Izdavanje - 2200.0
+kuca - 2023 - Izdavanje - 2000.0
+stan - 2022 - Izdavanje - 2000.0
+stan - 2023 - Prodaja - 1950.0
+stan - 2023 - Prodaja - 1950.0
+stan - 2023 - Prodaja - 1950.0
+stan - 2023 - Prodaja - 1900.0
+stan - 2023 - Prodaja - 1800.0
+stan - 2023 - Prodaja - 1800.0
+stan - 2022 - Izdavanje - 1800.0
+stan - 2023 - Izdavanje - 1800.0
+stan - 2023 - Prodaja - 1750.0
+stan - 2022 - Izdavanje - 1700.0
+stan - 2022 - Izdavanje - 1700.0
+stan - 2022 - Izdavanje - 1600.0
+stan - 2023 - Izdavanje - 1600.0
+stan - 2022 - Izdavanje - 1600.0
+stan - 2023 - Prodaja - 1560.0
+stan - 2023 - Prodaja - 1545.0
+stan - 2022 - Prodaja - 1540.0
+stan - 2023 - Prodaja - 1540.0
+stan - 2023 - Prodaja - 1500.0
+stan - 2022 - Izdavanje - 1500.0
+stan - 2022 - Izdavanje - 1500.0
+stan - 2022 - Izdavanje - 1500.0
+stan - 2023 - Izdavanje - 1500.0
+stan - 2023 - Izdavanje - 1500.0
+stan - 2023 - Izdavanje - 1500.0
+stan - 2023 - Izdavanje - 1500.0
+stan - 2022 - Izdavanje - 1500.0
+stan - 2023 - Izdavanje - 1500.0
+stan - 2023 - Prodaja - 1499.0
+stan - 2023 - Prodaja - 1485.0
+stan - 2023 - Prodaja - 1480.0
+stan - 2023 - Prodaja - 1480.0
+stan - 2022 - Prodaja - 1450.0
+stan - 2023 - Prodaja - 1450.0
+stan - 2023 - Izdavanje - 1450.0
+stan - 2023 - Prodaja - 1430.0
+stan - 2023 - Prodaja - 1430.0
+stan - 2023 - Prodaja - 1400.0
+stan - 2023 - Prodaja - 1400.0
+stan - 2022 - Izdavanje - 1400.0
+stan - 2022 - Izdavanje - 1400.0
+stan - 2023 - Izdavanje - 1400.0
+stan - 2023 - Izdavanje - 1400.0
+stan - 2023 - Izdavanje - 1400.0
+stan - 2023 - Prodaja - 1386.0
+stan - 2022 - Izdavanje - 1300.0
+stan - 2023 - Izdavanje - 1300.0
+stan - 2023 - Prodaja - 1250.0
+stan - 2023 - Prodaja - 1250.0
+stan - 2022 - Prodaja - 1200.0
+stan - 2023 - Prodaja - 1200.0
+stan - 2022 - Izdavanje - 1200.0
+stan - 2023 - Izdavanje - 1200.0
+stan - 2022 - Izdavanje - 1200.0
+stan - 2023 - Izdavanje - 1200.0
+stan - 2022 - Prodaja - 1150.0
+stan - 2022 - Prodaja - 1150.0
+stan - 2023 - Izdavanje - 1150.0
+stan - 2023 - Izdavanje - 1100.0
+stan - 2023 - Prodaja - 1050.0
+stan - 2023 - Prodaja - 1050.0
+stan - 2023 - Prodaja - 1050.0
+stan - 2022 - Izdavanje - 1050.0
+stan - 2022 - Prodaja - 1000.0
+stan - 2022 - Izdavanje - 1000.0
+stan - 2022 - Izdavanje - 1000.0
+stan - 2022 - Izdavanje - 1000.0
+stan - 2022 - Izdavanje - 1000.0
+stan - 2023 - Izdavanje - 1000.0
+stan - 2023 - Izdavanje - 1000.0
+stan - 2023 - Izdavanje - 1000.0
+stan - 2022 - Izdavanje - 1000.0
+stan - 2023 - Izdavanje - 900.0
+stan - 2023 - Izdavanje - 900.0
+stan - 2023 - Izdavanje - 900.0
+stan - 2023 - Izdavanje - 800.0
+stan - 2022 - Izdavanje - 800.0
+stan - 2023 - Izdavanje - 700.0
+stan - 2022 - Izdavanje - 700.0
+stan - 2022 - Izdavanje - 520.0
+stan - 2023 - Izdavanje - 520.0
+stan - 2023 - Izdavanje - 500.0
+stan - 2023 - Izdavanje - 500.0
+stan - 2022 - Izdavanje - 450.0
+stan - 2023 - Izdavanje - 350.0
+stan - 2023 - Izdavanje - 350.0
+stan - 2022 - Izdavanje - 350.0
+stan - 2023 - Prodaja - 218.331
+stan - 2023 - Prodaja - 190.083
+stan - 2023 - Prodaja - 105.451
+stan - 2023 - Prodaja - 1.0
+stan - 2022 - Prodaja - 1.0
+
+
+STAVKA G: prikazati nekretnine (Top30) koje imaju:
+▪ najveći broj soba unutar nekretnine
+stan - 73 soba
+stan - 49 soba
+stan - 46 soba
+kuca - 26 soba
+kuca - 23 soba
+kuca - 21 soba
+stan - 21 soba
+kuca - 20 soba
+kuca - 20 soba
+kuca - 18 soba
+stan - 18 soba
+kuca - 17 soba
+stan - 17 soba
+stan - 16 soba
+kuca - 15 soba
+kuca - 15 soba
+kuca - 15 soba
+kuca - 15 soba
+kuca - 14 soba
+kuca - 14 soba
+kuca - 14 soba
+kuca - 14 soba
+kuca - 14 soba
+kuca - 14 soba
+kuca - 13 soba
+kuca - 13 soba
+kuca - 13 soba
+kuca - 12 soba
+kuca - 12 soba
+kuca - 12 soba
+
+
+▪ najveću kvadraturu (samo za stanove)
+1441.0 m^2
+884.76 m^2
+541.0 m^2
+540.0 m^2
+510.0 m^2
+490.0 m^2
+450.0 m^2
+405.0 m^2
+405.0 m^2
+400.0 m^2
+373.0 m^2
+370.0 m^2
+370.0 m^2
+357.0 m^2
+352.0 m^2
+350.0 m^2
+342.0 m^2
+340.0 m^2
+340.0 m^2
+340.0 m^2
+340.0 m^2
+330.0 m^2
+330.0 m^2
+320.0 m^2
+316.0 m^2
+304.0 m^2
+301.0 m^2
+300.0 m^2
+300.0 m^2
+300.0 m^2
+
+
+▪ najveću površinu zemljišta (samo za kuće)
+16500.0 ari
+5473.0 ari
+2500.0 ari
+2465.0 ari
+1817.0 ari
+1600.0 ari
+1508.0 ari
+1504.0 ari
+1113.0 ari
+1112.0 ari
+1032.0 ari
+1000.0 ari
+981.0 ari
+944.0 ari
+935.0 ari
+900.0 ari
+886.0 ari
+880.0 ari
+852.0 ari
+772.0 ari
+750.0 ari
+700.0 ari
+665.0 ari
+657.0 ari
+643.0 ari
+606.0 ari
+606.0 ari
+604.0 ari
+582.0 ari
+580.0 ari
+
+
